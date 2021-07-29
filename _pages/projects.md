@@ -16,7 +16,7 @@ Supervisors: Dr Chaitanya Gokhale, Dr Prateek Verma. </i>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="/gauravathreya.github.io/assets/img/PD_SP_DS.jpg" alt="" title="example image" />
+        <img class="img-fluid rounded z-depth-1" src="/https://github.com/gauravathreya/gauravathreya.github.io/assets/img/PD_SP_DS.jpg" alt="" title="example image" />
     </div>
 </div>
 <div class="caption">
@@ -36,7 +36,7 @@ Supervisor: Dr Deepak Dhar. </i>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="/gauravathreya.github.io/assets/img/2d_bm.png" alt="" title="example image" />
+        <img class="img-fluid rounded z-depth-1" src="/https://github.com/gauravathreya/gauravathreya.github.io/assets/img/2d_bm.png" alt="" title="example image" />
     </div>
 </div>
 <div class="caption">
@@ -59,7 +59,7 @@ Supervisor: Dr M.S. Madhusudhan. </i>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="/gauravathreya.github.io/assets/img/subgraph_diversity_with_support.png" alt="" title="example image" />
+        <img class="img-fluid rounded z-depth-1" src="/https://github.com/gauravathreya/gauravathreya.github.io/assets/img/subgraph_diversity_with_support.png" alt="" title="example image" />
     </div>
 </div>
 <div class="caption">
