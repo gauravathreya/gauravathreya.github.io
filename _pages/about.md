@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am an undergraduate student in mathematics and biology at the [Indian Institute of Science Education and Research (IISER) in Pune, India](https://www.iiserpune.ac.in/). I am also currently an intern with [Dr Chaitanya Gokhale](http://gokhalechaitanya.github.io/) and [Dr Prateek Verma](https://sites.google.com/view/prateekverma) at the Max Planck Institute for Evolutionary Biology in Pl&ouml;n, where I am trying to understand mechanisms of production and maintenance of biodiversity in microbial communities. 
+Hi! I am an undergraduate student in mathematics and biology at the [Indian Institute of Science Education and Research (IISER) in Pune, India](https://www.iiserpune.ac.in/). I am currently an intern with [Dr Chaitanya Gokhale](http://gokhalechaitanya.github.io/) and [Dr Prateek Verma](https://sites.google.com/view/prateekverma) at the Max Planck Institute for Evolutionary Biology in Pl&ouml;n, where I am trying to understand mechanisms of production and maintenance of biodiversity in microbial communities. I am also an [INSPIRE-SHE](https://online-inspire.gov.in/Account/INSPIREProgramme) scholar for the duration of my BS-MS degree (2018-2023). 
 
 My academic interests are primarily in complex systems, evolutionary theory, and the mathematics used in these fields. In particular, I like to think about eco-evolutionary dynamics, innovations in evolution, and how they result in increasing biological complexity. I have also enjoyed taking courses on point-set topology and smooth manifolds. 
 
