@@ -8,7 +8,7 @@ horizontal: false
 ---
 
 <b> <font size="5">  
-Production and Maintenance of Biodiversity in Microbial Communities with Antibiotic-mediated Interactions    
+Eco-evolutionary dynamics of antibiotic-mediated interactions in microbial communities
 </font>  </b> 
 
 <i> June 2021 - Present. <br>
@@ -16,11 +16,11 @@ Supervisors: Dr Chaitanya Gokhale, Dr Prateek Verma. </i>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="https://gauravathreya.github.io/assets/img/PD_SP_DS.jpg" alt="" title="example image" />
+        <img class="img-fluid rounded z-depth-1" src="https://gauravathreya.github.io/assets/img/lattice_model.png" alt="" title="example image" />
     </div>
 </div>
 <div class="caption">
-    A simplex plot of the path to coexistence in a community with two antibiotics and three strains.
+    A lattice model of a microbial community with three microbes - one that produces a particular antibiotic (red), one that is sensitive to this antibiotic (yellow), and another that degrades the antibiotic by producing another small molecule (blue). For certain values of diffusivities of the antibiotic and degrader molecules, this community shows stable co-existence via cyclical dynamics. 
 </div>
 
 Microbes often form multi-strain communities via antibiotic-based interactions. This project attempts to understand how the evolution of ecological interactions within the communities drives the production and maintenance of biodiversity. Kelsic et al. (2015) showed that pairwise production-inhibition interactions can be mediated by degraders to give robust, stable coexistence in both the well-mixed and spatially distributed settings. Their results demonstrate this effect of higher-order interactions for communities with as many as 6 strains with the ability to produce and degrade 5 distinct antibiotics. However, it is unclear which of these community configurations can be realized during the process of evolution. Work in this direction by Vetsigian (2017) showed that allowing production and degradation of one antibiotic can, after many cycles of reproduction, give rise to a 3-strain community that is both ecologically and evolutionarily stable, and two antibiotics can similarly give rise to a stable 5-strain community. Notably, the interaction graph of the stable 1-antibiotic community can be identified as a subgraph of the stable 2-antibiotic community, suggesting a type of modularity in the interactions that induce stability.  
@@ -44,11 +44,11 @@ Supervisor: Dr Deepak Dhar. </i>
 </div>
 
 
-The aim of this project was to gain an understanding of the theory of stochastic processes. My motivation to study these topics came from a desire to understand probabilistic models of biological evolution. I began from the prototypical example of a discrete stochastic process - the simple random walk on $$\mathbb{Z}$$. After studying it in some detail, I proceeded to study processes that take place over continuous time and in continuous space, and with different dependence-structures on the past. In particular, I learnt about discrete-time Markov chains, continuous-time Markov chains, with some notable examples being birth-death processes and branching processes. Then I learnt about the construction and properties of Brownian motion, with a focus on the zero set and recurrence-transience results. For the last part of the project, I began learning about martingales and stochastic integration. 
+The aim of this reading project was to gain an understanding of the theory of stochastic processes. My motivation to study these topics came from a desire to understand probabilistic models of biological evolution. We began with the prototypical example of a discrete stochastic process - the simple random walk on $$\mathbb{Z}$$. After studying it in some detail, we proceeded to study processes that take place over continuous time and in continuous space, and with different dependence-structures on the past. In particular, I studied discrete-time Markov chains, continuous-time Markov chains, with birth-death processes and branching processes in detail. We then moved on to the construction and properties of Brownian motion, with a focus on the zero set and recurrence-transience results. We ended with an elementary introduction to martingales and stochastic integration. 
 
-This project introduced me to multiple results and ideas that I found interesting. Some that I particularly liked are the fractal nature of the zero set of Brownian motion, the Polya recurrence theorem, and its counterpart for Brownian motion. There are also several results relating to the simple random walk - such as the arc sine law and the formula for the probability of $r$ changes of sign - that show how intuition and the central limit theorem do not correspond to reality when waiting times are large and fluctuations are present. Another idea that I thought was interesting was that the discrete versions of the processes were fundamental to understanding the continuous versions - both with the notion of embedded Markov chains and the construction of Brownian motion from discrete random walks. To learn more about these topics, I am taking advanced undergraduate courses on measure theory and integration, measure-theoretic probability, and stochastic processes over the next two semesters.  
+This project introduced me to multiple results and ideas that I found interesting. Some that I particularly liked are the fractal nature of the zero set of Brownian motion, the Polya recurrence theorem, and its counterpart for Brownian motion. There are also several results relating to the simple random walk - such as the arc sine law and the formula for the probability of $$r$$ changes of sign - that show how intuition and the central limit theorem do not correspond to reality when waiting times are large and fluctuations are present. To learn more about these topics, I am taking advanced undergraduate courses on measure theory and integration, probability theory, and stochastic processes over the next two semesters.  
 
-The books that I consulted for this project are as follows. For the parts relating to random walks, I used <i> An introduction to probability theory and its applications, Volume 1 </i> by William Feller. For the rest of the project, I used <i> Introduction to Stochastic Processes </i> by Greg Lawler and <i> Brownian Motion </i> by Peter M&ouml;rters and Yuval Peres. 
+The books consulted for this project are as follows. For the parts relating to random walks, I used <i> An introduction to probability theory and its applications, Volume 1 </i> by William Feller. For the rest of the project, I used <i> Introduction to Stochastic Processes </i> by Greg Lawler and <i> Brownian Motion </i> by Peter M&ouml;rters and Yuval Peres. 
 
 <b> <font size="5">  
 A Subgraph Mining Approach to Detecting Structural Motifs in Local Environments
