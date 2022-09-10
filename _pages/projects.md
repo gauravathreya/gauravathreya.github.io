@@ -8,7 +8,23 @@ horizontal: false
 ---
 
 <b> <font size="5">  
-Eco-evolutionary dynamics of antibiotic-mediated interactions in microbial communities
+Origins and evolution of endosymbiosis
+</font>  </b> 
+
+<i> June 2021 - Present. <br>
+Supervisor: Dr Chaitanya Gokhale </i>
+
+
+Lynn Margulis and her theory of endosymbiosis singularly reshaped our understanding of the origin of eukaryotes and their complexity.
+This organismal interaction is also a particularly striking instance of the so-called `major transitions in evolution', in which initially autonomous - and potentially unrelated - entities come together to give rise to a more complex entity. 
+In this project, we build on a diverse body of knowledge on these topics by developing a theoretical framework for understanding the eco-evolutionary dynamics of endosymbiosis. 
+Specifically, we aim to understand what kind of ecological relationships between the host and symbiont are necessary for facultative symbioses to become obligate.    
+We have little theoretical understanding of this question, and previous work has shown that a multitude of interactions, and other factors such as differences in generation times, are important for the facultative-obligate transition. 
+Even if there is an immediate benefit such as in the case of mutualists, obligate endosymbiosis can arise only if lower-level conflicts can be resolved in favour of the host-symbiont association. 
+In this context, we combine the frameworks of evolutionary game theory and adaptive dynamics to develop practical ideas applicable to more general settings, and aid in generating testable hypotheses.
+
+<b> <font size="5">  
+Antibiotic-mediated interactions and stability in microbial communities
 </font>  </b> 
 
 <i> June 2021 - Present. <br>
@@ -20,7 +36,7 @@ Supervisors: Dr Chaitanya Gokhale, Dr Prateek Verma. </i>
     </div>
 </div>
 <div class="caption">
-    A lattice model of a microbial community with three microbes - one that produces a particular antibiotic (red), one that is sensitive to this antibiotic (yellow), and another that degrades the antibiotic by producing another small molecule (blue). For certain values of diffusivities of the antibiotic and degrader molecules, this community shows stable co-existence via cyclical dynamics. 
+    A lattice model of a microbial community with three microbes - one that produces a particular antibiotic (red), one that is sensitive to this antibiotic (yellow), and another that degrades the antibiotic by producing another chemical (blue). For certain values of diffusivities of the antibiotic and degrader molecules, this community shows stable co-existence via cyclical dynamics. 
 </div>
 
 Microbes often form multi-strain communities via antibiotic-based interactions. This project attempts to understand how the evolution of ecological interactions within the communities drives the production and maintenance of biodiversity. Kelsic et al. (2015) showed that pairwise production-inhibition interactions can be mediated by degraders to give robust, stable coexistence in both the well-mixed and spatially distributed settings. Their results demonstrate this effect of higher-order interactions for communities with as many as 6 strains with the ability to produce and degrade 5 distinct antibiotics. However, it is unclear which of these community configurations can be realized during the process of evolution. Work in this direction by Vetsigian (2017) showed that allowing production and degradation of one antibiotic can, after many cycles of reproduction, give rise to a 3-strain community that is both ecologically and evolutionarily stable, and two antibiotics can similarly give rise to a stable 5-strain community. Notably, the interaction graph of the stable 1-antibiotic community can be identified as a subgraph of the stable 2-antibiotic community, suggesting a type of modularity in the interactions that induce stability.  
