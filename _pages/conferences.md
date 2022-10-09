@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workshops and Conferences
-permalink: /projects/
+permalink: /conferences/
 description: 
 nav: true
 horizontal: false
