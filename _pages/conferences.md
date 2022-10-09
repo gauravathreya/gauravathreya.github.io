@@ -13,9 +13,13 @@ horizontal: false
 
  <ul>
   <li> Poster presentation, <a href="https://ecmtb2022.org" target="_blank"> European Conference on Mathematical and Theoretical Biology (ECMTB)</a>, September 2022, Heidelberg.</li>
-  <li> Poster presentation, Workshop [Mathematical Modelling of Microbiomes](https://workshops.evolbio.mpg.de/event/60/), September 2022, MPI for Evolutionary Biology,  Plön, Germany.</li>
-  <li> Talk, Workshop ["Physical and chemical determinants of biological evolution"](https://workshops.evolbio.mpg.de/event/59/overview), September 2022, MPI for Evolutionary Biology, Plön, Germany.</li>
-  <li> Participant, Workshop ["The Future of Game Theory in Biology"] (https://workshops.evolbio.mpg.de/event/51/), July 2022, MPI for Evolutionary Biology, Plön. </li>
-  <li> Poster presentation, [Fifth Bangalore School on Population Genetics and Evolution] (https://www.icts.res.in/program/popgen2022), February 2022, International Centre for Theoretical Sciences, India. </li>
+ 
+  <li> Poster presentation, Workshop <a href="https://workshops.evolbio.mpg.de/event/60/" target="_blank"> Mathematical Modelling of Microbiomes </a>, September 2022, MPI for Evolutionary Biology,  Plön, Germany.</li>
+ 
+  <li> Talk, Workshop <a href="https://workshops.evolbio.mpg.de/event/59/overview" target="_blank"> Physical and chemical determinants of biological evolution </a>, September 2022, MPI for Evolutionary Biology, Plön, Germany.</li>
+ 
+  <li> Participant, Workshop <a href="https://workshops.evolbio.mpg.de/event/51/" target="_blank"> The Future of Game Theory in Biology </a>, July 2022, MPI for Evolutionary Biology, Plön. </li>
+ 
+  <li> Poster presentation, <a href="https://www.icts.res.in/program/popgen2022" target="_blank"> Fifth Bangalore School on Population Genetics and Evolution </a>, February 2022, International Centre for Theoretical Sciences, India. </li>
 </ul> 
 
