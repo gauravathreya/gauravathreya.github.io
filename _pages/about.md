@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: Undergrad, IISER Pune, India.
+description: 
 
 profile:
   align: right
