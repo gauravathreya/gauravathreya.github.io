@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshops and Conferences
+title: Talks and Conferences
 permalink: /conferences/
 description: 
 nav: true
@@ -12,7 +12,7 @@ horizontal: false
 </font>  </b> 
 
 <ul>
-  <li> Invited talk, Seminar of the Institute for Evolution and Biodiversity, WWU Münster, January 2023.</li> 
+  <li> Invited talk, Seminar of the Institute for Evolution and Biodiversity, University of Münster, January 2023.</li> 
 </ul> 
 
 
