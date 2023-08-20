@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /conferences/
+permalink: /publications/
 description: 
 nav: true
 horizontal: false
