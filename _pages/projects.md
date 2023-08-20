@@ -32,15 +32,6 @@ Antibiotic-mediated interactions and stability in microbial communities
 <i> June 2021 - Present. <br>
 Supervisors: Dr Chaitanya Gokhale, Dr Prateek Verma. </i>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="https://gauravathreya.github.io/assets/img/lattice_model.png" alt="" title="example image" />
-    </div>
-</div>
-<div class="caption">
-    A lattice model of a microbial community with three microbes - one that produces a particular antibiotic (red), one that is sensitive to this antibiotic (yellow), and another that degrades the antibiotic by producing another chemical (blue). For certain values of diffusivities of the antibiotic and degrader molecules, this community shows stable co-existence via cyclical dynamics. 
-</div>
-
 The immense diversity observed in natural microbial communities is surprising in light of the numerous weapons microbes have evolved to inhibit each other’s growth. 
 It is thus imperative to understand which interaction patterns can sustain a biodiverse community when individual species antagonistically affect one another. 
 In this study, we leverage potent methods from theoretical ecology to show how antibiotic-mediated interactions between microbes drive biological diversity.
@@ -61,15 +52,6 @@ Reading project on stochastic processes
 
 <i> February 2021 - May 2021. <br>
 Supervisor: Dr Deepak Dhar. </i>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="https://gauravathreya.github.io/assets/img/2d_bm.png" alt="" title="example image" />
-    </div>                                              
-</div>
-<div class="caption">
-    A sample path of 2-dimensional Brownian motion starting at the origin.
-</div>
 
 We began with the prototypical example of a discrete stochastic process - the simple random walk on $$\mathbb{Z}$$. After studying it in some detail, we proceeded to study processes that take place over continuous time and in continuous space, and with different memory structures. In particular, I studied discrete-time Markov chains, continuous-time Markov chains, with birth-death processes and branching processes in detail. We then moved on to the construction and properties of Brownian motion, with a focus on the zero set and recurrence-transience results. We ended with an elementary introduction to martingales and stochastic integration. 
 
