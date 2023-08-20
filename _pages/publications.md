@@ -15,10 +15,10 @@ Pre-prints
 
 <ul>
 <li> <b>Gaurav S. Athreya</b>, Peter Czuppon, Chaitanya S. Gokhale. On the structure of an evolutionary transition: dependence and cohesion in incipient endosymbioses (2023). 
-  doi: https://doi.org/10.1101/2023.07.17.549359  </li>
+  doi: [https://doi.org/10.1101/2023.07.17.549359](https://doi.org/10.1101/2023.07.17.549359)  </li>
 
 <li> <b>Gaurav S. Athreya</b>, Chaitanya S. Gokhale, Prateek Verma. Antibiotic-mediated interactions underlying microbial diversity (2023).
-doi: https://doi.org/10.1101/2023.02.15.528676 </li>
+doi: [https://doi.org/10.1101/2023.02.15.528676](https://doi.org/10.1101/2023.02.15.528676) </li>
 </ul>
 
 <b> <font size="7">  
