@@ -13,7 +13,7 @@ Origins and evolution of endosymbiosis
 
 Eukaryogenesis is the prototypical example of an egalitarian evolutionary transition in individuality, and endosymbiosis, more generally, is central to the origins of many complex biological systems. 
 Why do only some symbioses undergo such a transition, and how does the host-symbiont relationship change during this process?
-Here, we characterise endosymbiosis by two emergent collective-level properties: host and symbiont survival as a collective (``mutual dependence'') and the level of synchronised reproduction (``reproductive cohesion'').
+Here, we characterise endosymbiosis by two emergent collective-level properties: host and symbiont survival as a collective ("mutual dependence") and the level of synchronised reproduction ("reproductive cohesion").
 Using adaptive dynamics, we study the evolution of the traits underlying these properties.
 First, by adding a carrying capacity for the host-symbiont collective -- a realism previously ignored -- we find novel reasons why complete dependence or cohesion might not evolve, thus providing further theoretical support for the rarity of transitions in individuality.
 Second, our model suggests that asymmetries in evolutionary outcomes of hosts and symbionts can be explained by a difference in their population growth parameters, coupled with the shared fate of the collective they form.
