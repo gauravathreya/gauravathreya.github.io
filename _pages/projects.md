@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 description: 
-nav: true
+nav: false
 horizontal: false
 ---
 
