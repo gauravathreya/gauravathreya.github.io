@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 description: 
-nav: true
+nav: false
 horizontal: false
 ---
 
