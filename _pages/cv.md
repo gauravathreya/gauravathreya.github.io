@@ -11,6 +11,8 @@ horizontal: false
 Education
 </font>  </b>
 
+2024 - now: PhD student with Prof. Dr. Hanna Kokko, Johannes Gutenberg University, Mainz, Germany. Affiliated with the [GenEvo RTG](https://www.genevo-rtg.de) and the Mainz [IPP](https://www.imb.de/students-postdocs/international-phd-programme). 
+
 2018 - 2023: Bachelor and Master of Science in Mathematics and Biology, [Indian Institute of Science Education and Research (IISER), Pune](https://www.iiserpune.ac.in), India.   
 
 
