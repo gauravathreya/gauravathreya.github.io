@@ -3,7 +3,7 @@ layout: page
 title: Talks and Conferences
 permalink: /conferences/
 description: 
-nav: true
+nav: false
 horizontal: false
 ---
 
