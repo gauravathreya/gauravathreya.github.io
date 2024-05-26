@@ -16,7 +16,7 @@ Many organisms exhibit a correlation between sexual reproduction and dispersal.
 Aphid females develop wings when they reproduce sexually, whereas they do not have any when parthenogenetically having daughters.
 Cnidarian polyps can produce more polyps asexually but these are always close by, whereas sexual production of the next polyp generation is tied to the medusa stage which involves dispersal. 
 Many plants produce stolons/runners which vegetatively make more ramets, but sexual production of seeds is tied to dispersal. 
-There are pathogenic fungi which can asexually colonise their current host, but must have an episode of sexual reproduction 
+There are pathogenic fungi which can asexually colonise their current host, but must have an episode of sexual reproduction to jump hosts. 
 The diversity of examples above suggests a general explanation transcending phylogenetic boundaries, and I am interested in why such correlations emerge between reproductive modes and dispersal lifestyles.
 
 This question is sharpened when one considers that sex and dispersal are both ways of responding to an environmental stress -- abandoning a sinking ship.
