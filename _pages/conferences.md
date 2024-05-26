@@ -4,6 +4,7 @@ title: Talks and Conferences
 permalink: /conferences/
 description: 
 nav: true
+nav_order: 3
 horizontal: false
 ---
 
