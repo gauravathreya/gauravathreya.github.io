@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hi! 
-I'm a theoretical biologist with interests in the areas of evolutionary ecology, complex systems, and the mathematics used in these fields. 
+I'm a theoretical biologist with interests in evolutionary ecology, complex systems, and the mathematics used in these fields. 
 I am currently a PhD student with [Hanna Kokko](https://kokkonuts.org/) at the University of Mainz and [Yağmur Erten](https://research.rug.nl/en/persons/yagmur-erten) at the University of Groningen. 
 
 My work focuses, broadly, on understanding the origins of biological complexity and diversity. 
