@@ -15,7 +15,7 @@ See [my Google Scholar page](https://scholar.google.com/citations?user=nh8x3iIAA
 Data and scripts: https://github.com/tecoevo/incipient_endosymbiosis.git 
 </ul>
 
-<b> <font size="7">  
+<b> <font size="4">  
 Pre-prints
 </font>  </b>
 
@@ -25,7 +25,7 @@ doi: https://doi.org/10.1101/2023.02.15.528676 <br>
 Data and scripts: https://github.com/tecoevo/antibiotics_biodiversity.git 
 </ul>
 
-<b> <font size="7">  
+<b> <font size="4">  
 Theses
 </font>  </b> 
 
