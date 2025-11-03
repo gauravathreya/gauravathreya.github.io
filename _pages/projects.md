@@ -31,7 +31,7 @@ Our results shed light on three aspects of endosymbioses: coevolution between th
 
 <ul> 
 The results of this work can be found in this paper: <br>
-<b> Gaurav S. Athreya </b>, Peter Czuppon, Chaitanya S. Gokhale. The evolution of dependence and cohesion in incipient endosymbioses. <i> The American Naturalist </i> (2025). <a href="url"> https://doi.org/10.1086/737588 </a>
+<b> Gaurav S. Athreya </b>, Peter Czuppon, Chaitanya S. Gokhale. The evolution of dependence and cohesion in incipient endosymbioses. <i> The American Naturalist </i> (2025). <a href="https://doi.org/10.1086/737588"> https://doi.org/10.1086/737588 </a>
 </ul>
 
 <b> <font size="4">  
@@ -48,5 +48,5 @@ With [Prateek Verma](https://sites.google.com/view/prateekverma) and [Chaitanya 
 
 <ul> This work with resulted in a preprint currently under review. It can be found on biorXiv here: <br>
 <b> Gaurav S. Athreya </b>, Chaitanya S. Gokhale, Prateek Verma. Antibiotic-mediated interactions underlying microbial diversity.
-  <a href="url"> https://doi.org/10.1101/2023.02.15.528676 </a>
+  <a href="https://doi.org/10.1101/2023.02.15.528676"> https://doi.org/10.1101/2023.02.15.528676 </a>
 </ul>
