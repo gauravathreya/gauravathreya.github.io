@@ -31,7 +31,7 @@ Our results shed light on three aspects of endosymbioses: coevolution between th
 
 <ul> 
 The results of this work can be found in this paper: <br>
-Gaurav S. Athreya, Peter Czuppon, Chaitanya S. Gokhale. The evolution of dependence and cohesion in incipient endosymbioses. <i> The American Naturalist </i> (2025). https://doi.org/10.1086/737588
+<b> Gaurav S. Athreya </b>, Peter Czuppon, Chaitanya S. Gokhale. The evolution of dependence and cohesion in incipient endosymbioses. <i> The American Naturalist </i> (2025). <a href="url"> https://doi.org/10.1086/737588 </a>
 </ul>
 
 <b> <font size="4">  
@@ -46,5 +46,7 @@ Questions framed as a "diversity paradox" like above have been around for a long
 An especially interesting one asks whether (and if so which) patterns of interactions between species can themselves give rise to community stability.
 With [Prateek Verma](https://sites.google.com/view/prateekverma) and [Chaitanya Gokhale](http://gokhalechaitanya.github.io), I worked on analysing the ecological consequences of microbes interacting via antagonistic toxins and other chemicals that degrade these toxins. 
 
-<ul> This work with resulted in a preprint currently under review. It can be found on biorXiv here: <br>[https://doi.org/10.1101/2023.02.15.528676](https://doi.org/10.1101/2023.02.15.528676) 
+<ul> This work with resulted in a preprint currently under review. It can be found on biorXiv here: <br>
+<b> Gaurav S. Athreya </b>, Chaitanya S. Gokhale, Prateek Verma. Antibiotic-mediated interactions underlying microbial diversity.
+  <a href="url"> https://doi.org/10.1101/2023.02.15.528676 </a>
 </ul>
