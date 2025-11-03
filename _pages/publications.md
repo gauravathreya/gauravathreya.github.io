@@ -20,8 +20,7 @@ Pre-prints
 </font>  </b>
 
 <ul>
-<b>Gaurav S. Athreya</b>, Chaitanya S. Gokhale, Prateek Verma. Antibiotic-mediated interactions underlying microbial diversity (2023). <br>
-doi: <a href="https://doi.org/10.1101/2023.02.15.528676"> https://doi.org/10.1101/2023.02.15.528676 </a> <br>
+<b>Gaurav S. Athreya</b>, Chaitanya S. Gokhale, Prateek Verma. Antibiotic-mediated interactions underlying microbial diversity. <em>biorXiv</em> (2023). <a href="https://doi.org/10.1101/2023.02.15.528676"> https://doi.org/10.1101/2023.02.15.528676 </a> <br>
 Data and scripts: <a href="https://github.com/tecoevo/antibiotics_biodiversity.git"> https://github.com/tecoevo/antibiotics_biodiversity.git </a> 
 </ul>
 
@@ -30,6 +29,6 @@ Theses
 </font>  </b> 
 
 <ul>
-<a href="https://dr.iiserpune.ac.in:8080/xmlui/handle/123456789/7888"> Endosymbionts, eukaryotes, and evolutionary transitions. </a> Master thesis, IISER Pune and MPI for Evolutionary Biology (2023). 
+<a href="https://dr.iiserpune.ac.in:8080/xmlui/handle/123456789/7888"> Endosymbionts, eukaryotes, and evolutionary transitions.</a> Master thesis, IISER Pune and MPI for Evolutionary Biology (2023). 
 </ul>
 
