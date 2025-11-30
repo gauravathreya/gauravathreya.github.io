@@ -35,7 +35,7 @@ The results of this work can be found in this paper: <br>
 </ul>
 
 <b> <font size="4">  
-Antibiotic-mediated interactions and stability in microbial communities
+Biodiversity in complex microbial communities
 </font>  </b> 
 
 Classic theories of ecology predict that the coexistence of species in a diverse community requires axes along which each pair is different, for example in terms of resource usage.
@@ -46,6 +46,6 @@ Questions framed as a "diversity paradox" like above have been around for a long
 An especially interesting one asks whether (and if so which) patterns of interactions between species can themselves give rise to community stability.
 With [Prateek Verma](https://sites.google.com/view/prateekverma) and [Chaitanya Gokhale](http://gokhalechaitanya.github.io), I worked on analysing the ecological consequences of microbes interacting via antagonistic toxins and other chemicals that degrade these toxins. 
 
-<ul> This work with resulted in a preprint currently under review. It can be found on biorXiv here: <br>
-<b> Gaurav S. Athreya </b>, Chaitanya S. Gokhale, Prateek Verma. Antibiotic-mediated interactions underlying microbial diversity. <i> biorXiv </i> (2023). <a href="https://doi.org/10.1101/2023.02.15.528676"> https://doi.org/10.1101/2023.02.15.528676 </a>
+<ul> The results of this work can be found in this paper: <br>
+<b> Gaurav S. Athreya </b>, Chaitanya S. Gokhale, Prateek Verma. Coexistence rules for small, antagonistically interacting microbial communities. <i> PLoS Computational Biology </i> (forthcoming). <a href="https://doi.org/10.1101/2023.02.15.528676"> https://doi.org/10.1101/2023.02.15.528676 </a>
 </ul>
