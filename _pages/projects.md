@@ -47,5 +47,5 @@ An especially interesting one asks whether (and if so which) patterns of interac
 With [Prateek Verma](https://sites.google.com/view/prateekverma) and [Chaitanya Gokhale](http://gokhalechaitanya.github.io), I worked on analysing the ecological consequences of microbes interacting via antagonistic toxins and other chemicals that degrade these toxins. 
 
 <ul> The results of this work can be found in this paper: <br>
-<b> Gaurav S. Athreya </b>, Chaitanya S. Gokhale, Prateek Verma. Coexistence rules for small, antagonistically interacting microbial communities. <i> PLoS Computational Biology </i> (forthcoming). <a href="https://doi.org/10.1101/2023.02.15.528676"> https://doi.org/10.1101/2023.02.15.528676 </a>
+<b> Gaurav S. Athreya </b>, Chaitanya S. Gokhale, Prateek Verma. Coexistence rules for small, antagonistically interacting microbial communities. <i> PLoS Computational Biology </i> (2025). <a href="https://doi.org/10.1371/journal.pcbi.1013763"> https://doi.org/10.1371/journal.pcbi.1013763 </a>
 </ul>
