@@ -24,9 +24,6 @@ Data and scripts: <a href="https://github.com/tecoevo/incipient_endosymbiosis.gi
 Preprints
 </font>  </b> 
 
-
-Gaurav S. Athreya, 
-
 <ul>
 <b>Gaurav S. Athreya</b>, Ananda Shikhara Bhat, J. Arvid Ågren, E. Yagmur Erten, Thomas A. Keaney. Internal evolutionary conflicts: a conceptual synthesis and mathematical primer. <em> biorXiv </em> (2025). <a href="https://doi.org/10.64898/2026.07.16.739017"> https://doi.org/10.64898/2026.07.16.739017 </a>  <br>
 Data and scripts: <a href="https://github.com/gauravathreya/how-to-conflicts.git"> https://github.com/gauravathreya/how-to-conflicts.git </a>  
